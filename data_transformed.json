@@ -1,0 +1,1407 @@
+[
+    {
+        "ID": 188,
+        "Name": "Abdominal guarding",
+        "Name_Pt": "guarda abdominal"
+    },
+    {
+        "ID": 10,
+        "Name": "Abdominal pain",
+        "Name_Pt": "Dor abdominal"
+    },
+    {
+        "ID": 223,
+        "Name": "Abdominal pain associated with menstruation",
+        "Name_Pt": "dor abdominal associada à menstruação"
+    },
+    {
+        "ID": 984,
+        "Name": "Absence of a pulse",
+        "Name_Pt": "Ausência de um pulso"
+    },
+    {
+        "ID": 974,
+        "Name": "Aggressiveness",
+        "Name_Pt": "Agressividade"
+    },
+    {
+        "ID": 981,
+        "Name": "Agitation",
+        "Name_Pt": "Agitação"
+    },
+    {
+        "ID": 996,
+        "Name": "Ankle deformity",
+        "Name_Pt": "deformidade no tornozelo"
+    },
+    {
+        "ID": 147,
+        "Name": "Ankle swelling",
+        "Name_Pt": "inchaço do tornozelo"
+    },
+    {
+        "ID": 238,
+        "Name": "Anxiety",
+        "Name_Pt": "Ansiedade"
+    },
+    {
+        "ID": 1009,
+        "Name": "Arm pain",
+        "Name_Pt": "Dor no braço"
+    },
+    {
+        "ID": 971,
+        "Name": "Arm swelling",
+        "Name_Pt": "braço inchaço"
+    },
+    {
+        "ID": 998,
+        "Name": "Back deformity",
+        "Name_Pt": "Voltar deformidade"
+    },
+    {
+        "ID": 104,
+        "Name": "Back pain",
+        "Name_Pt": "Dor nas costas"
+    },
+    {
+        "ID": 180,
+        "Name": "Black stools",
+        "Name_Pt": "fezes pretas"
+    },
+    {
+        "ID": 57,
+        "Name": "Blackening of vision",
+        "Name_Pt": "Escurecimento da visão"
+    },
+    {
+        "ID": 24,
+        "Name": "Blackhead",
+        "Name_Pt": "Cravo"
+    },
+    {
+        "ID": 284,
+        "Name": "Bleeding from vagina",
+        "Name_Pt": "Sangramento da vagina,"
+    },
+    {
+        "ID": 176,
+        "Name": "Bleeding in the conjunctiva of the eye",
+        "Name_Pt": "Sangramento na conjuntiva do olho"
+    },
+    {
+        "ID": 48,
+        "Name": "Bloated feeling in the stomach",
+        "Name_Pt": "sensação de inchaço no estômago"
+    },
+    {
+        "ID": 190,
+        "Name": "Blood in stool",
+        "Name_Pt": "Sangue nas fezes"
+    },
+    {
+        "ID": 233,
+        "Name": "Bloody cough",
+        "Name_Pt": "sangrenta tosse"
+    },
+    {
+        "ID": 991,
+        "Name": "Blue colored skin",
+        "Name_Pt": "pele de cor azul"
+    },
+    {
+        "ID": 240,
+        "Name": "Blue spot on skin",
+        "Name_Pt": "mancha azul na pele"
+    },
+    {
+        "ID": 77,
+        "Name": "Blurred vision",
+        "Name_Pt": "Visão embaçada"
+    },
+    {
+        "ID": 239,
+        "Name": "Bold area among hair on the head",
+        "Name_Pt": "área negrito entre cabelo na cabeça"
+    },
+    {
+        "ID": 156,
+        "Name": "Bone fracture",
+        "Name_Pt": "Fratura óssea"
+    },
+    {
+        "ID": 250,
+        "Name": "Breathing-related pains",
+        "Name_Pt": "dores relacionadas com a respiração"
+    },
+    {
+        "ID": 979,
+        "Name": "Brittleness of nails",
+        "Name_Pt": "Fragilidade das unhas"
+    },
+    {
+        "ID": 192,
+        "Name": "Bulging abdominal wall",
+        "Name_Pt": "Abaulamento da parede abdominal"
+    },
+    {
+        "ID": 75,
+        "Name": "Burning eyes",
+        "Name_Pt": "Olhos queimando"
+    },
+    {
+        "ID": 46,
+        "Name": "Burning in the throat",
+        "Name_Pt": "Queimação na garganta"
+    },
+    {
+        "ID": 288,
+        "Name": "Burning nose",
+        "Name_Pt": "queimando nariz"
+    },
+    {
+        "ID": 107,
+        "Name": "Burning sensation when urinating",
+        "Name_Pt": "Sensação de ardor ao urinar"
+    },
+    {
+        "ID": 91,
+        "Name": "Changes in the nails",
+        "Name_Pt": "Altera nas unhas"
+    },
+    {
+        "ID": 170,
+        "Name": "Cheek swelling",
+        "Name_Pt": "inchaço Cheek"
+    },
+    {
+        "ID": 17,
+        "Name": "Chest pain",
+        "Name_Pt": "Dor no peito"
+    },
+    {
+        "ID": 31,
+        "Name": "Chest tightness",
+        "Name_Pt": "aperto no peito"
+    },
+    {
+        "ID": 175,
+        "Name": "Chills",
+        "Name_Pt": "Arrepios"
+    },
+    {
+        "ID": 218,
+        "Name": "Coarsening of the skin structure",
+        "Name_Pt": "Engrossamento da estrutura da pele"
+    },
+    {
+        "ID": 89,
+        "Name": "Cold feet",
+        "Name_Pt": "Apreensivo"
+    },
+    {
+        "ID": 978,
+        "Name": "Cold hands",
+        "Name_Pt": "Mãos frias"
+    },
+    {
+        "ID": 139,
+        "Name": "Cold sweats",
+        "Name_Pt": "suores frios"
+    },
+    {
+        "ID": 15,
+        "Name": "Cough",
+        "Name_Pt": "Tosse"
+    },
+    {
+        "ID": 228,
+        "Name": "Cough with sputum",
+        "Name_Pt": "Tosse com expectoração"
+    },
+    {
+        "ID": 94,
+        "Name": "Cramps",
+        "Name_Pt": "Cólicas"
+    },
+    {
+        "ID": 49,
+        "Name": "Cravings",
+        "Name_Pt": "cravings"
+    },
+    {
+        "ID": 134,
+        "Name": "Crusting",
+        "Name_Pt": "crostas"
+    },
+    {
+        "ID": 260,
+        "Name": "Curvature of the spine",
+        "Name_Pt": "Curvatura da coluna vertebral"
+    },
+    {
+        "ID": 108,
+        "Name": "Dark urine",
+        "Name_Pt": "urina escura"
+    },
+    {
+        "ID": 163,
+        "Name": "Decreased urine stream",
+        "Name_Pt": "fluxo de urina diminuiu"
+    },
+    {
+        "ID": 165,
+        "Name": "Delayed start to urination",
+        "Name_Pt": "Delayed início a micção"
+    },
+    {
+        "ID": 50,
+        "Name": "Diarrhea",
+        "Name_Pt": "Diarréia"
+    },
+    {
+        "ID": 79,
+        "Name": "Difficult defecation",
+        "Name_Pt": "defecação difícil"
+    },
+    {
+        "ID": 126,
+        "Name": "Difficulty in finding words",
+        "Name_Pt": "Dificuldade em palavras Encontrar"
+    },
+    {
+        "ID": 98,
+        "Name": "Difficulty in speaking",
+        "Name_Pt": "Dificuldade em falar"
+    },
+    {
+        "ID": 93,
+        "Name": "Difficulty in swallowing",
+        "Name_Pt": "Dificuldade em engolir"
+    },
+    {
+        "ID": 53,
+        "Name": "Difficulty to concentrate",
+        "Name_Pt": "Dificuldade de concentrado"
+    },
+    {
+        "ID": 1007,
+        "Name": "Difficulty to learn",
+        "Name_Pt": "Dificuldade para aprender"
+    },
+    {
+        "ID": 1005,
+        "Name": "Difficulty with gait",
+        "Name_Pt": "Dificuldade com marcha"
+    },
+    {
+        "ID": 216,
+        "Name": "Discoloration of nails",
+        "Name_Pt": "Descoloração das unhas"
+    },
+    {
+        "ID": 128,
+        "Name": "Disorientation regarding time or place",
+        "Name_Pt": "Desorientação em relação ao tempo ou lugar"
+    },
+    {
+        "ID": 989,
+        "Name": "Distended abdomen",
+        "Name_Pt": "abdômen distendido"
+    },
+    {
+        "ID": 207,
+        "Name": "Dizziness",
+        "Name_Pt": "Tontura"
+    },
+    {
+        "ID": 71,
+        "Name": "Double vision",
+        "Name_Pt": "Visão dupla"
+    },
+    {
+        "ID": 270,
+        "Name": "Double vision, acute-onset",
+        "Name_Pt": "visão dupla, de início agudo"
+    },
+    {
+        "ID": 162,
+        "Name": "Dribbling after urination",
+        "Name_Pt": "Babar após a micção"
+    },
+    {
+        "ID": 244,
+        "Name": "Drooping eyelid",
+        "Name_Pt": "queda da pálpebra"
+    },
+    {
+        "ID": 43,
+        "Name": "Drowsiness",
+        "Name_Pt": "sonolência"
+    },
+    {
+        "ID": 273,
+        "Name": "Dry eyes",
+        "Name_Pt": "Olhos secos"
+    },
+    {
+        "ID": 272,
+        "Name": "Dry mouth",
+        "Name_Pt": "Boca seca"
+    },
+    {
+        "ID": 151,
+        "Name": "Dry skin",
+        "Name_Pt": "Pele seca"
+    },
+    {
+        "ID": 87,
+        "Name": "Earache",
+        "Name_Pt": "Dor de ouvido"
+    },
+    {
+        "ID": 92,
+        "Name": "Early satiety",
+        "Name_Pt": "saciedade precoce"
+    },
+    {
+        "ID": 1011,
+        "Name": "Elbow pain",
+        "Name_Pt": "dor de cotovelo"
+    },
+    {
+        "ID": 1006,
+        "Name": "Enlarged calf",
+        "Name_Pt": "bezerro alargada"
+    },
+    {
+        "ID": 242,
+        "Name": "Eye blinking",
+        "Name_Pt": "piscar de olhos"
+    },
+    {
+        "ID": 287,
+        "Name": "Eye pain",
+        "Name_Pt": "Dor nos olhos"
+    },
+    {
+        "ID": 33,
+        "Name": "Eye redness",
+        "Name_Pt": "vermelhidão ocular"
+    },
+    {
+        "ID": 208,
+        "Name": "Eyelid swelling",
+        "Name_Pt": "pálpebra inchaço"
+    },
+    {
+        "ID": 209,
+        "Name": "Eyelids sticking together",
+        "Name_Pt": "Pálpebras coladas"
+    },
+    {
+        "ID": 219,
+        "Name": "Face pain",
+        "Name_Pt": "dor facial"
+    },
+    {
+        "ID": 246,
+        "Name": "Facial paralysis",
+        "Name_Pt": "Paralisia facial"
+    },
+    {
+        "ID": 970,
+        "Name": "Facial swelling",
+        "Name_Pt": "Edema facial"
+    },
+    {
+        "ID": 153,
+        "Name": "Fast, deepened breathing",
+        "Name_Pt": "Rápido, respiração aprofundada"
+    },
+    {
+        "ID": 83,
+        "Name": "Fatty defecation",
+        "Name_Pt": "fatty defecação"
+    },
+    {
+        "ID": 982,
+        "Name": "Feeling faint",
+        "Name_Pt": "Sentindo tonto"
+    },
+    {
+        "ID": 1014,
+        "Name": "Feeling ill",
+        "Name_Pt": "ulceração"
+    },
+    {
+        "ID": 76,
+        "Name": "Feeling of foreign body in the eye",
+        "Name_Pt": "Sensação de corpo estranho no olho"
+    },
+    {
+        "ID": 86,
+        "Name": "Feeling of pressure in the ear",
+        "Name_Pt": "Sensação de pressão no ouvido"
+    },
+    {
+        "ID": 164,
+        "Name": "Feeling of residual urine",
+        "Name_Pt": "Sensação de urina residual"
+    },
+    {
+        "ID": 145,
+        "Name": "Feeling of tension in the legs",
+        "Name_Pt": "Sensação de tensão nas pernas"
+    },
+    {
+        "ID": 11,
+        "Name": "Fever",
+        "Name_Pt": "Febre"
+    },
+    {
+        "ID": 995,
+        "Name": "Finger deformity",
+        "Name_Pt": "deformidade do dedo"
+    },
+    {
+        "ID": 1013,
+        "Name": "Finger pain",
+        "Name_Pt": "dor no dedo"
+    },
+    {
+        "ID": 1012,
+        "Name": "Finger swelling",
+        "Name_Pt": "dedo inchaço"
+    },
+    {
+        "ID": 214,
+        "Name": "Flaking skin",
+        "Name_Pt": "descamação da pele"
+    },
+    {
+        "ID": 245,
+        "Name": "Flaking skin on the head",
+        "Name_Pt": "Descamação da pele na cabeça"
+    },
+    {
+        "ID": 154,
+        "Name": "Flatulence",
+        "Name_Pt": "Flatulência"
+    },
+    {
+        "ID": 255,
+        "Name": "Foot pain",
+        "Name_Pt": "Dor no pé"
+    },
+    {
+        "ID": 1002,
+        "Name": "Foot swelling",
+        "Name_Pt": "inchaço pé"
+    },
+    {
+        "ID": 125,
+        "Name": "Forgetfulness",
+        "Name_Pt": "Esquecimento"
+    },
+    {
+        "ID": 62,
+        "Name": "Formation of blisters on a skin area",
+        "Name_Pt": "Formação de bolhas em uma área da pele"
+    },
+    {
+        "ID": 84,
+        "Name": "Foul smelling defecation",
+        "Name_Pt": "defecação mau cheiro"
+    },
+    {
+        "ID": 59,
+        "Name": "Frequent urination",
+        "Name_Pt": "micção freqüente"
+    },
+    {
+        "ID": 110,
+        "Name": "Genital warts",
+        "Name_Pt": "Verrugas genitais"
+    },
+    {
+        "ID": 152,
+        "Name": "Hair loss",
+        "Name_Pt": "Perda de cabelo"
+    },
+    {
+        "ID": 976,
+        "Name": "Hallucination",
+        "Name_Pt": "Alucinação"
+    },
+    {
+        "ID": 72,
+        "Name": "Halo",
+        "Name_Pt": "aréola"
+    },
+    {
+        "ID": 186,
+        "Name": "Hand pain",
+        "Name_Pt": "dor na mão"
+    },
+    {
+        "ID": 148,
+        "Name": "Hand swelling",
+        "Name_Pt": "inchaço mão"
+    },
+    {
+        "ID": 80,
+        "Name": "Hard defecation",
+        "Name_Pt": "defecação difícil"
+    },
+    {
+        "ID": 184,
+        "Name": "Hardening of the skin",
+        "Name_Pt": "Endurecimento da pele"
+    },
+    {
+        "ID": 9,
+        "Name": "Headache",
+        "Name_Pt": "Dor de cabeça"
+    },
+    {
+        "ID": 206,
+        "Name": "Hearing loss",
+        "Name_Pt": "Perda de audição"
+    },
+    {
+        "ID": 985,
+        "Name": "Heart murmur",
+        "Name_Pt": "Sopro cardíaco"
+    },
+    {
+        "ID": 45,
+        "Name": "Heartburn",
+        "Name_Pt": "Azia"
+    },
+    {
+        "ID": 122,
+        "Name": "Hiccups",
+        "Name_Pt": "soluços"
+    },
+    {
+        "ID": 993,
+        "Name": "Hip deformity",
+        "Name_Pt": "deformidade Hip"
+    },
+    {
+        "ID": 196,
+        "Name": "Hip pain",
+        "Name_Pt": "Dor no quadril"
+    },
+    {
+        "ID": 121,
+        "Name": "Hoarseness",
+        "Name_Pt": "rouquidão"
+    },
+    {
+        "ID": 149,
+        "Name": "Hot flushes",
+        "Name_Pt": "Ondas de calor"
+    },
+    {
+        "ID": 197,
+        "Name": "Immobilization",
+        "Name_Pt": "imobilização"
+    },
+    {
+        "ID": 120,
+        "Name": "Impaired balance",
+        "Name_Pt": "Desequilíbrio"
+    },
+    {
+        "ID": 90,
+        "Name": "Impaired hearing",
+        "Name_Pt": "deficientes auditivos"
+    },
+    {
+        "ID": 70,
+        "Name": "Impaired light-dark adaptation",
+        "Name_Pt": "Prejudicada adaptação claro-escuro"
+    },
+    {
+        "ID": 113,
+        "Name": "Impairment of male potency",
+        "Name_Pt": "Imparidade de potência masculina"
+    },
+    {
+        "ID": 81,
+        "Name": "Incomplete defecation",
+        "Name_Pt": "defecação incompleta"
+    },
+    {
+        "ID": 131,
+        "Name": "Increased appetite",
+        "Name_Pt": "aumento do apetite"
+    },
+    {
+        "ID": 262,
+        "Name": "Increased drive",
+        "Name_Pt": "aumento da unidade"
+    },
+    {
+        "ID": 204,
+        "Name": "Increased salivation",
+        "Name_Pt": "aumento da salivação"
+    },
+    {
+        "ID": 40,
+        "Name": "Increased thirst",
+        "Name_Pt": "aumento da sede"
+    },
+    {
+        "ID": 220,
+        "Name": "Increased touch sensitivity",
+        "Name_Pt": "O aumento da sensibilidade ao toque"
+    },
+    {
+        "ID": 39,
+        "Name": "Increased urine quantity",
+        "Name_Pt": "O aumento da quantidade de urina"
+    },
+    {
+        "ID": 257,
+        "Name": "Involuntary movements",
+        "Name_Pt": "movimentos involuntários"
+    },
+    {
+        "ID": 986,
+        "Name": "Irregular heartbeat",
+        "Name_Pt": "Arritmia cardíaca"
+    },
+    {
+        "ID": 65,
+        "Name": "Irregular mole",
+        "Name_Pt": "molar irregular"
+    },
+    {
+        "ID": 73,
+        "Name": "Itching eyes",
+        "Name_Pt": "coceira nos olhos"
+    },
+    {
+        "ID": 88,
+        "Name": "Itching in the ear",
+        "Name_Pt": "Coceira no ouvido"
+    },
+    {
+        "ID": 973,
+        "Name": "Itching in the mouth or throat",
+        "Name_Pt": "Coceira na boca ou garganta"
+    },
+    {
+        "ID": 96,
+        "Name": "Itching in the nose",
+        "Name_Pt": "Comichão no nariz"
+    },
+    {
+        "ID": 21,
+        "Name": "Itching of skin",
+        "Name_Pt": "Coceira da pele"
+    },
+    {
+        "ID": 999,
+        "Name": "Itching of the anus",
+        "Name_Pt": "Comichão do ânus"
+    },
+    {
+        "ID": 247,
+        "Name": "Itching on head",
+        "Name_Pt": "Coceira na cabeça"
+    },
+    {
+        "ID": 268,
+        "Name": "Itching or burning in the genital area",
+        "Name_Pt": "Coceira ou ardência na área genital"
+    },
+    {
+        "ID": 194,
+        "Name": "Joint effusion",
+        "Name_Pt": "derrame articular"
+    },
+    {
+        "ID": 198,
+        "Name": "Joint instability",
+        "Name_Pt": "instabilidade articular"
+    },
+    {
+        "ID": 27,
+        "Name": "Joint pain",
+        "Name_Pt": "dor nas articulações"
+    },
+    {
+        "ID": 230,
+        "Name": "Joint redness",
+        "Name_Pt": "vermelhidão conjunta"
+    },
+    {
+        "ID": 193,
+        "Name": "Joint swelling",
+        "Name_Pt": "Inchaço nas articulaçoes"
+    },
+    {
+        "ID": 47,
+        "Name": "Joylessness",
+        "Name_Pt": "joylessness"
+    },
+    {
+        "ID": 994,
+        "Name": "Knee deformity",
+        "Name_Pt": "deformidade no joelho"
+    },
+    {
+        "ID": 256,
+        "Name": "Knee pain",
+        "Name_Pt": "Dor no joelho"
+    },
+    {
+        "ID": 146,
+        "Name": "Leg cramps",
+        "Name_Pt": "cãibras nas pernas"
+    },
+    {
+        "ID": 1010,
+        "Name": "Leg pain",
+        "Name_Pt": "Dor na perna"
+    },
+    {
+        "ID": 231,
+        "Name": "Leg swelling",
+        "Name_Pt": "inchaço nas pernas"
+    },
+    {
+        "ID": 143,
+        "Name": "Leg ulcer",
+        "Name_Pt": "úlcera de perna"
+    },
+    {
+        "ID": 82,
+        "Name": "Less than 3 defecations per week",
+        "Name_Pt": "Menos de 3 evacuações por semana"
+    },
+    {
+        "ID": 992,
+        "Name": "Limited mobility of the ankle",
+        "Name_Pt": "a mobilidade limitada do tornozelo"
+    },
+    {
+        "ID": 167,
+        "Name": "Limited mobility of the back",
+        "Name_Pt": "mobilidade reduzida das costas"
+    },
+    {
+        "ID": 178,
+        "Name": "Limited mobility of the fingers",
+        "Name_Pt": "mobilidade reduzida dos dedos"
+    },
+    {
+        "ID": 1000,
+        "Name": "Limited mobility of the hip",
+        "Name_Pt": "a mobilidade limitada do hip"
+    },
+    {
+        "ID": 195,
+        "Name": "Limited mobility of the leg",
+        "Name_Pt": "mobilidade reduzida da perna"
+    },
+    {
+        "ID": 35,
+        "Name": "Lip swelling",
+        "Name_Pt": "inchaço Lip"
+    },
+    {
+        "ID": 205,
+        "Name": "Lockjaw",
+        "Name_Pt": "Lockjaw"
+    },
+    {
+        "ID": 210,
+        "Name": "Loss of eye lashes",
+        "Name_Pt": "Perda de cílios"
+    },
+    {
+        "ID": 174,
+        "Name": "Lower abdominal pain",
+        "Name_Pt": "dor abdominal inferior"
+    },
+    {
+        "ID": 263,
+        "Name": "Lower-back pain",
+        "Name_Pt": "Dor na região lombar"
+    },
+    {
+        "ID": 261,
+        "Name": "Lump in the breast",
+        "Name_Pt": "Nódulo na mama"
+    },
+    {
+        "ID": 266,
+        "Name": "Malposition of the testicles",
+        "Name_Pt": "Mau posicionamento dos testículos"
+    },
+    {
+        "ID": 232,
+        "Name": "Marked veins",
+        "Name_Pt": "veias marcadas"
+    },
+    {
+        "ID": 235,
+        "Name": "Memory gap",
+        "Name_Pt": "gap de memória"
+    },
+    {
+        "ID": 112,
+        "Name": "Menstruation disorder",
+        "Name_Pt": "desordem menstruação"
+    },
+    {
+        "ID": 123,
+        "Name": "Missed period",
+        "Name_Pt": "ausência de menstruação"
+    },
+    {
+        "ID": 215,
+        "Name": "Moist and softened skin",
+        "Name_Pt": "Úmido e pele amolecida"
+    },
+    {
+        "ID": 85,
+        "Name": "Mood swings",
+        "Name_Pt": "Mudanças de humor"
+    },
+    {
+        "ID": 983,
+        "Name": "Morning stiffness",
+        "Name_Pt": "rigidez matinal"
+    },
+    {
+        "ID": 135,
+        "Name": "Mouth pain",
+        "Name_Pt": "dor na boca"
+    },
+    {
+        "ID": 97,
+        "Name": "Mouth ulcers",
+        "Name_Pt": "úlceras na boca"
+    },
+    {
+        "ID": 177,
+        "Name": "Muscle pain",
+        "Name_Pt": "Dor muscular"
+    },
+    {
+        "ID": 119,
+        "Name": "Muscle stiffness",
+        "Name_Pt": "Rigidez muscular"
+    },
+    {
+        "ID": 987,
+        "Name": "Muscle weakness",
+        "Name_Pt": "Fraqueza muscular"
+    },
+    {
+        "ID": 252,
+        "Name": "Muscular atrophy in the leg",
+        "Name_Pt": "atrofia muscular na perna"
+    },
+    {
+        "ID": 202,
+        "Name": "Muscular atrophy of the arm",
+        "Name_Pt": "atrofia muscular do braço"
+    },
+    {
+        "ID": 168,
+        "Name": "Muscular weakness in the arm",
+        "Name_Pt": "fraqueza muscular no braço"
+    },
+    {
+        "ID": 253,
+        "Name": "Muscular weakness in the leg",
+        "Name_Pt": "fraqueza muscular na perna"
+    },
+    {
+        "ID": 44,
+        "Name": "Nausea",
+        "Name_Pt": "Náusea"
+    },
+    {
+        "ID": 136,
+        "Name": "Neck pain",
+        "Name_Pt": "Dor de pescoço"
+    },
+    {
+        "ID": 234,
+        "Name": "Neck stiffness",
+        "Name_Pt": "Rigidez do pescoço"
+    },
+    {
+        "ID": 114,
+        "Name": "Nervousness",
+        "Name_Pt": "nervosismo"
+    },
+    {
+        "ID": 133,
+        "Name": "Night cough",
+        "Name_Pt": "tosse noturna"
+    },
+    {
+        "ID": 1004,
+        "Name": "Night sweats",
+        "Name_Pt": "Suor noturno"
+    },
+    {
+        "ID": 63,
+        "Name": "Non-healing skin wound",
+        "Name_Pt": "Não-cicatrização de feridas da pele"
+    },
+    {
+        "ID": 38,
+        "Name": "Nosebleed",
+        "Name_Pt": "Sangramento nasal"
+    },
+    {
+        "ID": 221,
+        "Name": "Numbness in the arm",
+        "Name_Pt": "Dormência no braço"
+    },
+    {
+        "ID": 254,
+        "Name": "Numbness in the leg",
+        "Name_Pt": "Dormência na perna"
+    },
+    {
+        "ID": 200,
+        "Name": "Numbness of the hands",
+        "Name_Pt": "Dormência das mãos"
+    },
+    {
+        "ID": 137,
+        "Name": "Oversensitivity to light",
+        "Name_Pt": "Hipersensibilidade à luz"
+    },
+    {
+        "ID": 157,
+        "Name": "Overweight",
+        "Name_Pt": "Excesso de peso"
+    },
+    {
+        "ID": 155,
+        "Name": "Pain in the bones",
+        "Name_Pt": "Dor nos ossos"
+    },
+    {
+        "ID": 142,
+        "Name": "Pain in the calves",
+        "Name_Pt": "Dor nas panturrilhas"
+    },
+    {
+        "ID": 12,
+        "Name": "Pain in the limbs",
+        "Name_Pt": "Dor nos membros"
+    },
+    {
+        "ID": 990,
+        "Name": "Pain of the anus",
+        "Name_Pt": "Dor do ânus"
+    },
+    {
+        "ID": 203,
+        "Name": "Pain on swallowing",
+        "Name_Pt": "Dor ao engolir"
+    },
+    {
+        "ID": 251,
+        "Name": "Pain radiating to the arm",
+        "Name_Pt": "Dor irradiada para o braço"
+    },
+    {
+        "ID": 103,
+        "Name": "Pain radiating to the leg",
+        "Name_Pt": "Dor que irradia para a perna"
+    },
+    {
+        "ID": 286,
+        "Name": "Pain when chewing",
+        "Name_Pt": "Dor ao mastigar"
+    },
+    {
+        "ID": 189,
+        "Name": "Painful defecation",
+        "Name_Pt": "defecação dolorosa"
+    },
+    {
+        "ID": 109,
+        "Name": "Painful urination",
+        "Name_Pt": "Dor ao urinar"
+    },
+    {
+        "ID": 150,
+        "Name": "Pallor",
+        "Name_Pt": "Palidez"
+    },
+    {
+        "ID": 37,
+        "Name": "Palpitations",
+        "Name_Pt": "taquicardia"
+    },
+    {
+        "ID": 140,
+        "Name": "Paralysis",
+        "Name_Pt": "Paralisia"
+    },
+    {
+        "ID": 118,
+        "Name": "Physical inactivity",
+        "Name_Pt": "Inatividade física"
+    },
+    {
+        "ID": 129,
+        "Name": "Problems with the sense of touch in the face",
+        "Name_Pt": "Problemas com a sensação de toque na cara"
+    },
+    {
+        "ID": 130,
+        "Name": "Problems with the sense of touch in the feet",
+        "Name_Pt": "Problemas com o sentido do tato nos pés"
+    },
+    {
+        "ID": 258,
+        "Name": "Protrusion of the eyes",
+        "Name_Pt": "Protrusão dos olhos"
+    },
+    {
+        "ID": 172,
+        "Name": "Purulent discharge from the urethra",
+        "Name_Pt": "descarga purulenta da uretra"
+    },
+    {
+        "ID": 173,
+        "Name": "Purulent discharge from the vagina",
+        "Name_Pt": "descarga purulenta da vagina"
+    },
+    {
+        "ID": 191,
+        "Name": "Rebound tenderness",
+        "Name_Pt": "Dolorimento de rebote"
+    },
+    {
+        "ID": 54,
+        "Name": "Reduced appetite",
+        "Name_Pt": "apetite reduzido"
+    },
+    {
+        "ID": 78,
+        "Name": "Ringing in the ear",
+        "Name_Pt": "Zumbido no ouvido"
+    },
+    {
+        "ID": 14,
+        "Name": "Runny nose",
+        "Name_Pt": "Nariz a pingar"
+    },
+    {
+        "ID": 975,
+        "Name": "Sadness",
+        "Name_Pt": "Tristeza"
+    },
+    {
+        "ID": 269,
+        "Name": "Scalp redness",
+        "Name_Pt": "vermelhidão do couro cabeludo"
+    },
+    {
+        "ID": 1001,
+        "Name": "Scar",
+        "Name_Pt": "Cicatriz"
+    },
+    {
+        "ID": 60,
+        "Name": "Sensitivity to cold",
+        "Name_Pt": "A sensibilidade ao frio"
+    },
+    {
+        "ID": 69,
+        "Name": "Sensitivity to glare",
+        "Name_Pt": "Sensibilidade ao brilho"
+    },
+    {
+        "ID": 102,
+        "Name": "Sensitivity to noise",
+        "Name_Pt": "A sensibilidade ao ruído"
+    },
+    {
+        "ID": 264,
+        "Name": "Shiny red tongue",
+        "Name_Pt": "língua vermelha brilhante"
+    },
+    {
+        "ID": 29,
+        "Name": "Shortness of breath",
+        "Name_Pt": "Falta de ar"
+    },
+    {
+        "ID": 183,
+        "Name": "Side pain",
+        "Name_Pt": "dor Side"
+    },
+    {
+        "ID": 26,
+        "Name": "Skin lesion",
+        "Name_Pt": "Lesão na pele"
+    },
+    {
+        "ID": 25,
+        "Name": "Skin nodules",
+        "Name_Pt": "nódulos cutâneos"
+    },
+    {
+        "ID": 124,
+        "Name": "Skin rash",
+        "Name_Pt": "erupção cutânea"
+    },
+    {
+        "ID": 61,
+        "Name": "Skin redness",
+        "Name_Pt": "vermelhidão da pele"
+    },
+    {
+        "ID": 217,
+        "Name": "Skin thickening",
+        "Name_Pt": "espessamento da pele"
+    },
+    {
+        "ID": 34,
+        "Name": "Skin wheal",
+        "Name_Pt": "pele pápula"
+    },
+    {
+        "ID": 241,
+        "Name": "Sleepiness with spontaneous falling asleep",
+        "Name_Pt": "Sonolência com espontânea adormecer"
+    },
+    {
+        "ID": 52,
+        "Name": "Sleeplessness",
+        "Name_Pt": "Insônia"
+    },
+    {
+        "ID": 95,
+        "Name": "Sneezing",
+        "Name_Pt": "espirros"
+    },
+    {
+        "ID": 13,
+        "Name": "Sore throat",
+        "Name_Pt": "Dor de garganta"
+    },
+    {
+        "ID": 64,
+        "Name": "Sputum",
+        "Name_Pt": "Escarro"
+    },
+    {
+        "ID": 179,
+        "Name": "Stomach burning",
+        "Name_Pt": "queima de estômago"
+    },
+    {
+        "ID": 185,
+        "Name": "Stress-related leg pain",
+        "Name_Pt": "dor nas pernas relacionadas com o estresse"
+    },
+    {
+        "ID": 28,
+        "Name": "Stuffy nose",
+        "Name_Pt": "Nariz entupido"
+    },
+    {
+        "ID": 138,
+        "Name": "Sweating",
+        "Name_Pt": "sudorese"
+    },
+    {
+        "ID": 236,
+        "Name": "Swelling in the genital area",
+        "Name_Pt": "Inchaço na área genital"
+    },
+    {
+        "ID": 267,
+        "Name": "Swelling of the testicles",
+        "Name_Pt": "Inchaço dos testículos"
+    },
+    {
+        "ID": 248,
+        "Name": "Swollen glands in the armpit",
+        "Name_Pt": "Inchaço das glândulas na axila"
+    },
+    {
+        "ID": 249,
+        "Name": "Swollen glands in the groin",
+        "Name_Pt": "Inchaço das glândulas na virilha"
+    },
+    {
+        "ID": 169,
+        "Name": "Swollen glands in the neck",
+        "Name_Pt": "Glândulas inchadas no pescoço"
+    },
+    {
+        "ID": 211,
+        "Name": "Tears",
+        "Name_Pt": "Lágrimas"
+    },
+    {
+        "ID": 222,
+        "Name": "Testicular pain",
+        "Name_Pt": "dor testicular"
+    },
+    {
+        "ID": 243,
+        "Name": "Tic",
+        "Name_Pt": "tique"
+    },
+    {
+        "ID": 201,
+        "Name": "Tingling",
+        "Name_Pt": "formigueiro"
+    },
+    {
+        "ID": 16,
+        "Name": "Tiredness",
+        "Name_Pt": "Cansaço"
+    },
+    {
+        "ID": 997,
+        "Name": "Toe deformity",
+        "Name_Pt": "deformidade do dedo do pé"
+    },
+    {
+        "ID": 1003,
+        "Name": "Toe swelling",
+        "Name_Pt": "inchaço toe"
+    },
+    {
+        "ID": 980,
+        "Name": "Tongue burning",
+        "Name_Pt": "queima Tongue"
+    },
+    {
+        "ID": 977,
+        "Name": "Tongue swelling",
+        "Name_Pt": "inchaço da língua"
+    },
+    {
+        "ID": 1008,
+        "Name": "Toothache",
+        "Name_Pt": "Dor de dente"
+    },
+    {
+        "ID": 115,
+        "Name": "Tremor at rest",
+        "Name_Pt": "Tremor em repouso"
+    },
+    {
+        "ID": 132,
+        "Name": "Tremor on movement",
+        "Name_Pt": "Tremor em movimento"
+    },
+    {
+        "ID": 988,
+        "Name": "Trouble understanding speech",
+        "Name_Pt": "compreensão da fala problemas"
+    },
+    {
+        "ID": 144,
+        "Name": "Unconsciousness, short",
+        "Name_Pt": "Inconsciência, curta"
+    },
+    {
+        "ID": 265,
+        "Name": "Uncontrolled defecation",
+        "Name_Pt": "defecação descontrolada"
+    },
+    {
+        "ID": 116,
+        "Name": "Underweight",
+        "Name_Pt": "Abaixo do peso"
+    },
+    {
+        "ID": 160,
+        "Name": "Urge to urinate",
+        "Name_Pt": "Vontade de urinar"
+    },
+    {
+        "ID": 161,
+        "Name": "Urination during the night",
+        "Name_Pt": "Urinar durante a noite"
+    },
+    {
+        "ID": 68,
+        "Name": "Vision impairment",
+        "Name_Pt": "deficiência visual"
+    },
+    {
+        "ID": 213,
+        "Name": "Vision impairment for far objects",
+        "Name_Pt": "deficiência visual para objetos distantes"
+    },
+    {
+        "ID": 166,
+        "Name": "Vision impairment for near objects",
+        "Name_Pt": "deficiência visual para objetos próximos"
+    },
+    {
+        "ID": 66,
+        "Name": "Visual field loss",
+        "Name_Pt": "perda de campo visual"
+    },
+    {
+        "ID": 101,
+        "Name": "Vomiting",
+        "Name_Pt": "vómitos"
+    },
+    {
+        "ID": 181,
+        "Name": "Vomiting blood",
+        "Name_Pt": "Vomitando sangue"
+    },
+    {
+        "ID": 972,
+        "Name": "Weakness or numbness on right or left side of body",
+        "Name_Pt": "Fraqueza ou dormência no lado direito ou esquerdo do corpo"
+    },
+    {
+        "ID": 23,
+        "Name": "Weight gain",
+        "Name_Pt": "Ganho de peso"
+    },
+    {
+        "ID": 22,
+        "Name": "Weight loss",
+        "Name_Pt": "Perda de peso"
+    },
+    {
+        "ID": 30,
+        "Name": "Wheezing",
+        "Name_Pt": "pieira"
+    },
+    {
+        "ID": 187,
+        "Name": "Wound",
+        "Name_Pt": "Ferida"
+    },
+    {
+        "ID": 105,
+        "Name": "Yellow colored skin",
+        "Name_Pt": "pele de cor amarela"
+    },
+    {
+        "ID": 106,
+        "Name": "Yellowish discoloration of the white part of the eye",
+        "Name_Pt": "coloração amarelada da parte branca do olho"
+    }
+]
